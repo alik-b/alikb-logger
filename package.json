@@ -1,0 +1,24 @@
+{
+  "name": "alikb-log-package",
+  "version": "1.0.1",
+  "description": "A simple loggin package for Node.js projects with customizable formatting for different logging levels",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alik-b/alikb-logger.git"
+  },
+  "keywords": [
+    "TCSS",
+    "450",
+    "logger"
+  ],
+  "author": "Alik Balika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alik-b/alikb-logger/issues"
+  },
+  "homepage": "https://github.com/alik-b/alikb-logger#readme"
+}
